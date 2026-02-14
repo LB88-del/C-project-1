@@ -10,3 +10,7 @@ Change log:
 2nd commit: 
 limited output to 3dp. Introduced getPositiveInt function called for all 3 numerical inputs to make code more compact.
 
+3rd commit: 
+added comments
+Improved validation (before inputs beginning with y and n were taken to be y and n and now solely the characters 'y' and 'n' are accepted)
+Fixed error in calculations
