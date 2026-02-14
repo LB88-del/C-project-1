@@ -1,4 +1,4 @@
-# C-project-1
+README C-project-1
 C++ project
 
 User inputs Z, ni and nf to calculate the energy of a transition in a Bohr atom
